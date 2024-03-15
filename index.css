@@ -1,0 +1,6 @@
+#heading{
+    color: blueviolet;
+}
+#child2 #heading{
+    color: red;
+}
